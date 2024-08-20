@@ -54,7 +54,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <mainClass>SpingbootDemo01Application</mainClass>
-                         <skip>true</skip>
                 </configuration>
                 <executions>
                     <execution>
